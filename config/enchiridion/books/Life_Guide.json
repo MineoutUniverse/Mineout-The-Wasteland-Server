@@ -1,0 +1,646 @@
+{
+  "book": [
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]LIFE GUIDE",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF228B22",
+            "xPos": 68,
+            "yPos": 24,
+            "width": 78.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF555555",
+            "xPos": 31,
+            "yPos": 34,
+            "width": 145.0,
+            "height": 1.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Welcome to Life Guide Manual. In this book, we are going to teach you how to make your survival much easier in this wasteland!\n\nThis manual has 3 sections\n1. Farming\n2. Armory/Weaponary\n3. Machinary\n\nI wish you to the best luck with your skills in wasteland!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 31,
+            "yPos": 39,
+            "width": 164.0,
+            "height": 113.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]Farming",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF2E8B57",
+            "xPos": 234,
+            "yPos": 22,
+            "width": 64.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF555555",
+            "xPos": 231,
+            "yPos": 33,
+            "width": 125.0,
+            "height": 1.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "As what you know, Seeds is important for farming. They can be found in loot chests. They are obtainable by breaking grass, same thing with melon and pumpkin.\n\nNow, to get that entire process starting, you first need to create yourself some grass block. This can be done by crafting some dirt and placing it next to water, make sure you have a lot of dirt, so it can spread faster. This guide will teach you how to make a mob drop plant",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 233,
+            "yPos": 46,
+            "width": 154.0,
+            "height": 162.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Life_Guide/vaultlogos.png",
+            "xPos": 64,
+            "yPos": 150,
+            "width": 84.0,
+            "height": 42.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]Craft a Vitalized Soil Planter",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 35,
+            "yPos": 23,
+            "width": 184.0,
+            "height": 12.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "A good quality water can be crafted or found in loot chests (bucket), Village\u0027s well, or hideout of ruined buildings. After you finished crafted it... Try put a dirt or more. The dirt you put will become a Vitalized Soil.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 31,
+            "yPos": 110,
+            "width": 165.0,
+            "height": 82.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]Find/Craft a Mob Drop",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 232,
+            "yPos": 23,
+            "width": 148.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Life_Guide/planter.png",
+            "xPos": 235,
+            "yPos": 112,
+            "width": 152.0,
+            "height": 56.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "minecraft:wheat_seeds:0:minecraft:dye:15:minecraft:water_bucket:0:minecraft:dirt:0",
+            "recipeType": "ShapelessRecipes",
+            "item": "attainedDrops:blockConcentrateDrop",
+            "xPos": 33,
+            "yPos": 35,
+            "width": 128.0,
+            "height": 64.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Most of acceptable items are vanilla mob drops.\n\nIf you already have it. Place it to the vitalized soil to make it producing a mob drop you wanted!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 232,
+            "yPos": 41,
+            "width": 153.0,
+            "height": 65.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]Craft a Mob Drop Plant",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 37,
+            "yPos": 24,
+            "width": 146.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "attainedDrops:plantSeed",
+            "xPos": 42,
+            "yPos": 36,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Check your NEI Recipes for it!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 85,
+            "yPos": 41,
+            "width": 105.0,
+            "height": 18.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Well, it\u0027s not that instant to become obtainable items. You also need this in order to plant a mob drop plant you wanted.\n\nWait or Grow it with Bone meal as fertilizer. If you successfully growed it to produce age. You just wait for time until the block mob drop item growed. Then, harvest it. and do like this each time you want to harvest",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 40,
+            "yPos": 69,
+            "width": 135.0,
+            "height": 137.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Life_Guide/mobplant.png",
+            "xPos": 234,
+            "yPos": 28,
+            "width": 155.0,
+            "height": 84.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Well, this is only an addition feature. There\u0027s more that can\u0027t be mentioned here.\n\nYou can be creative to survive the wasteland!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 236,
+            "yPos": 123,
+            "width": 152.0,
+            "height": 66.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]The use of Life Essence?",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 35,
+            "yPos": 24,
+            "width": 165.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Life Essence is so useful for Farming. Especially, giving a new greeny biome by yourself.\n\nThere\u0027s a lot of things haven\u0027t mentioned yet. If you find anything that is not craftable findable. Report it to discord.\n\nOnly you can make a new change of how this world!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 37,
+            "yPos": 38,
+            "width": 153.0,
+            "height": 96.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Life_Guide/newbornlife.png",
+            "xPos": 37,
+            "yPos": 141,
+            "width": 156.0,
+            "height": 50.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]Armory/Weapons[/b]",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF2E8B57",
+            "xPos": 231,
+            "yPos": 24,
+            "width": 118.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF555555",
+            "xPos": 231,
+            "yPos": 33,
+            "width": 96.0,
+            "height": 1.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "In wasteland. We surely need to protect ourselves from monsters or bandits. So, the second part will tell you about how to make armors \u0026 weapons.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 232,
+            "yPos": 39,
+            "width": 163.0,
+            "height": 54.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The type of weapons/armors you able to craft only a half feature of this modpack. It uses of VMW\u0027s Modern Warfare mod. You can craft anything inside of it.\n\nWe will not teach you a lot. Just make sure to check NEI Recipes if you don\u0027t know.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 232,
+            "yPos": 94,
+            "width": 157.0,
+            "height": 92.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Well, in starting base. We put a pisto, clips, and a few bullets.\n\nI know. Bullets are limited, so make sure to use it wisely.\n\nAlright, let\u0027s get to the beginning.. how to craft bullets. and then, the gun itself.\n\nMost of required materials of bullets can be found anywhere.. when you are going to mining like how minecraft was used to be.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 38,
+            "yPos": 25,
+            "width": 150.0,
+            "height": 142.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Life_Guide/caveentrance.png",
+            "xPos": 38,
+            "yPos": 169,
+            "width": 63.0,
+            "height": 29.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Most of bullets required copper ingot and gunpowder in order to make them. Just check your NEI Recipes for more info.\n\nAny types of coppers are acceptable to craft bullets.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 235,
+            "yPos": 26,
+            "width": 162.0,
+            "height": 67.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Life_Guide/copperores.png",
+            "xPos": 237,
+            "yPos": 93,
+            "width": 158.0,
+            "height": 88.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Next part is telling how to craft a weapons/armors\n\nMost of weapons required steel ingots and steel plates. You can use any type of steel ingots to craft them. But, we will teach you to use.. What VMW\u0027s crafting guide used.\n\nFirst thing. You need a [b]Steel Dust[/b].",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 33,
+            "yPos": 24,
+            "width": 165.0,
+            "height": 109.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "minecraft:coal:0:minecraft:coal:0:minecraft:iron_ingot:0:minecraft:coal:0:minecraft:coal:0",
+            "recipeType": "ShapedOreRecipe",
+            "item": "mw:SteelDust",
+            "xPos": 36,
+            "yPos": 135,
+            "width": 94.0,
+            "height": 47.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "After that, you can smelt it to obtain an ingot",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 232,
+            "yPos": 22,
+            "width": 165.0,
+            "height": 17.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "mw:SteelDust:32767",
+            "recipeType": "VanillaFurnace",
+            "item": "mw:SteelIngot",
+            "xPos": 230,
+            "yPos": 42,
+            "width": 58.0,
+            "height": 63.800000000000004
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "For Steel Plates. It\u0027s easy to craft. Just do what it looks like below.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 311,
+            "yPos": 53,
+            "width": 87.0,
+            "height": 48.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "ingotSteel:ingotSteel:ingotSteel:ingotSteel:ingotSteel:ingotSteel",
+            "recipeType": "ShapedOreRecipe",
+            "item": "mw:SteelPlate",
+            "xPos": 233,
+            "yPos": 112,
+            "width": 65.0,
+            "height": 32.5
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "mw:SteelPlate:0:mw:MiniSteelPlate:0:mw:SteelPlate:0",
+            "recipeType": "ShapedOreRecipe",
+            "item": "mw:BigSteelPlate",
+            "xPos": 323,
+            "yPos": 108,
+            "width": 69.0,
+            "height": 34.5
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "ingotSteel:ingotSteel",
+            "recipeType": "ShapedOreRecipe",
+            "item": "mw:MiniSteelPlate",
+            "xPos": 272,
+            "yPos": 152,
+            "width": 85.0,
+            "height": 42.5
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Well, there you have it. You can craft any weapons would you like. Just check your NEI Recipes for more info.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 29,
+            "yPos": 26,
+            "width": 173.0,
+            "height": 37.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]For Armors[/b]. Well, it\u0027s not that hard. Most of them required Titanium Ingots.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 33,
+            "yPos": 77,
+            "width": 168.0,
+            "height": 30.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Titanium Ore can be found in underground cave channels. After you obtained the ores, Smelt them with furnace",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 32,
+            "yPos": 110,
+            "width": 159.0,
+            "height": 35.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "mw:TitaniumOre:32767",
+            "recipeType": "VanillaFurnace",
+            "item": "mw:TitaniumIngot",
+            "xPos": 33,
+            "yPos": 148,
+            "width": 43.0,
+            "height": 47.300000000000004
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Not everything must be crafted. You can explore and find bandits in abandoned city. They are very rare to be alive!\n\nNot only entity. This guns can safe you as player from other player who can be bandits too. If you are in multiplayer server.\n\nJust be safe, and good luck on your journey!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 236,
+            "yPos": 27,
+            "width": 155.0,
+            "height": 127.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]Machinary",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF2E8B57",
+            "xPos": 37,
+            "yPos": 24,
+            "width": 68.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF555555",
+            "xPos": 37,
+            "yPos": 34,
+            "width": 124.0,
+            "height": 1.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The last part is about technology. not everything must be manually produce by yourself. But you can make your own industry of producing resources. But, i know. Not everything can be automatically obtained. But at least. This can make your survival easier than before. And it\u0027s preferred for who have a home base.\n\nModpack already included : BigReactor, IndustrialCraft, Mekanism\u0026Generator, Railcraft, Rails Of War, Minecraft Flight Simulator and more..",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 38,
+            "yPos": 43,
+            "width": 162.0,
+            "height": 157.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Unfortunately, I couldn\u0027t tell you much more about this. You can search and look in internet about the mods. ",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 239,
+            "yPos": 27,
+            "width": 151.0,
+            "height": 38.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Some of them are made to NEI Recipes. You can check them. How to craft them.\n\nAnyway, if there\u0027s anything that you need to ask/suggest. let me know in discord.\n\nSo. This is it. The end of Life Guide/Manual. Thanks for reading manuals that were provided. [b]Good luck on your journey![/b]",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 241,
+            "yPos": 77,
+            "width": 150.0,
+            "height": 117.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [],
+      "pageName": ""
+    }
+  ],
+  "uniqueName": "Life_Guide",
+  "color": 16777215,
+  "showBackground": true,
+  "showArrows": true,
+  "showNumber": true,
+  "iconPass1": "",
+  "iconPass2": "",
+  "iconColorisePass1": false,
+  "iconColorisePass2": false,
+  "iconColorPass1": 0,
+  "iconColorPass2": 0,
+  "language": "en_US",
+  "displayName": "Life Guide",
+  "displayInCreative": true
+}

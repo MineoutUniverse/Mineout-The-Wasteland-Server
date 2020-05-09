@@ -1,0 +1,3 @@
+SimpleAchievements:sa.achievementBook,1,0
+Enchiridion2:book,1,0,{identifier:"Survival_Guide"}
+Enchiridion2:book,1,0,{identifier:"Life_Guide"}

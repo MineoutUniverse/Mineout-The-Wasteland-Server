@@ -1,0 +1,18 @@
+-----------
+Blacklist :
+-----------
+CustomMainMenu
+DefaultWorldGenerator
+Fancy Block Particles - FBP
+ResourceLoader
+TabbyChat
+ZynHUD
+
+-----------
+Whitelist :
+-----------
+HelpFixer
+
+
+Blacklist = You can't load this mods on Server Side
+Whitelist = Server Side Mods

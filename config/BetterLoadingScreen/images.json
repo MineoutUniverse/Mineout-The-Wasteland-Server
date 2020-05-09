@@ -1,0 +1,88 @@
+[
+  {
+    "resourceLocation": "textures:splashscreens/load_screen.png",
+    "positionType": "CENTER",
+    "type": "STATIC",
+    "texture": {
+      "x": 0,
+      "y": 0,
+      "width": 256,
+      "height": 256
+    },
+    "position": {
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 250
+    },
+    "comment": "Background Image"
+  },
+  {
+    "resourceLocation": "textures/font/ascii.png",
+    "positionType": "CENTER",
+    "type": "DYNAMIC_TEXT_STATUS",
+    "position": {
+      "x": 0,
+      "y": -20,
+      "width": 0,
+      "height": 0
+    },
+    "colour": "ffffff",
+    "comment": "The current operation"
+  },
+  {
+    "resourceLocation": "textures/font/ascii.png",
+    "positionType": "CENTER",
+    "type": "DYNAMIC_TEXT_PERCENTAGE",
+    "position": {
+      "x": 0,
+      "y": -30,
+      "width": 0,
+      "height": 0
+    },
+    "colour": "ffffff",
+    "comment": "The overall percentage progress"
+  },
+  {
+    "resourceLocation": "textures:splashscreens/progressBars.png",
+    "positionType": "CENTER",
+    "type": "STATIC",
+    "texture": {
+      "x": 0,
+      "y": 0,
+      "width": 182,
+      "height": 10
+    },
+    "position": {
+      "x": 0,
+      "y": -40,
+      "width": 182,
+      "height": 10
+    },
+	"colour": "ffffff",
+    "comment": "Frame Progress Bar"
+  },
+  {
+    "resourceLocation": "textures:splashscreens/progressBars.png",
+    "positionType": "CENTER",
+    "type": "DYNAMIC_PERCENTAGE",
+    "texture": {
+      "x": 0,
+      "y": 10,
+      "width": 182,
+      "height": 10
+    },
+    "position": {
+      "x": 0,
+      "y": -40,
+      "width": 182,
+      "height": 10
+    },
+    "comment": "Fill Progress Bar"
+  },
+  {
+    "type": "CLEAR_COLOUR",
+    "colour": "ffffff",
+    "comment": "Background Base Color"
+  }
+]

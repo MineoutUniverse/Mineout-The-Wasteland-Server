@@ -1,0 +1,1138 @@
+{
+  "book": [
+    {
+      "features": [
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/headcover.png",
+            "xPos": 33,
+            "yPos": 27,
+            "width": 163.0,
+            "height": 87.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Welcome to the Wasteland\n\nThis manual will show you everything you need to know on how to survive this awfull place\n\n\nThe manual will be divided into three sections :",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 241,
+            "yPos": 25,
+            "width": 152.0,
+            "height": 91.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]1. Basic Survival\n2. Foods and Water\n3. Tips for Survival",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 242,
+            "yPos": 121,
+            "width": 143.0,
+            "height": 24.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Make sure to not lose this guide as you can craft it but you\u0027d rather not go threw it.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 243,
+            "yPos": 157,
+            "width": 129.0,
+            "height": 35.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/vaultlogos.png",
+            "xPos": 61,
+            "yPos": 118,
+            "width": 106.0,
+            "height": 48.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/basic.png",
+            "xPos": 41,
+            "yPos": 18,
+            "width": 147.0,
+            "height": 28.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF228B22",
+            "xPos": 29,
+            "yPos": 51,
+            "width": 173.0,
+            "height": 2.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "A little recap, When the bombs fell it only ended a chapter in human history and began another. One filled with radioactive wastelands and land of wasteland dirt. This is the world of Mineout. The world that remained was harsh and unforgiving. Starting a new life is very challanging. But, no matter what. This is what we are going to live witth.\n\nYou.. Survivor is the only hope for rebuilding our world!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 35,
+            "yPos": 62,
+            "width": 166.0,
+            "height": 133.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "When you\u0027ve decided to start gathering resource. The first step, you have to find [b][i]several gravel[/i][/b] and try to obtain yourself some [b]flint[/b]",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 233,
+            "yPos": 26,
+            "width": 146.0,
+            "height": 49.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/flints.png",
+            "xPos": 236,
+            "yPos": 142,
+            "width": 76.0,
+            "height": 50.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Gravel can be found in [b]loots of monsters[/b], [b]ravines[/b] and [b]wasteland mountain biomes[/b]",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 234,
+            "yPos": 84,
+            "width": 155.0,
+            "height": 36.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/hills.png",
+            "xPos": 321,
+            "yPos": 143,
+            "width": 75.0,
+            "height": 49.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/ravine.png",
+            "xPos": 272,
+            "yPos": 126,
+            "width": 84.0,
+            "height": 49.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "After that, you can craft a flint hatchet and pickaxe",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 237,
+            "yPos": 111,
+            "width": 163.0,
+            "height": 19.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "minecraft:flint:0:minecraft:flint:0:minecraft:stick:0:minecraft:flint:0",
+            "recipeType": "ShapedRecipes",
+            "item": "flintmod:item.axeFlint 0",
+            "xPos": 238,
+            "yPos": 148,
+            "width": 78.0,
+            "height": 39.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Then, [b]REMEMBER![/b] You cannot craft [u]wooden tools[/u]! So If you successfully obtained several flints.\n\nExplore the wasteland, try find ruined building with wooden plank block. Then, try gather them to craft a crafting table",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 38,
+            "yPos": 28,
+            "width": 154.0,
+            "height": 90.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "plankWood:plankWood:plankWood:plankWood",
+            "recipeType": "ShapedOreRecipe",
+            "item": "minecraft:crafting_table",
+            "xPos": 42,
+            "yPos": 130,
+            "width": 128.0,
+            "height": 64.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Then, use it to craft a stick",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 233,
+            "yPos": 27,
+            "width": 156.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "plankWood:plankWood",
+            "recipeType": "ShapedOreRecipe",
+            "item": "minecraft:stick",
+            "xPos": 237,
+            "yPos": 39,
+            "width": 128.0,
+            "height": 64.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "flintmod:item.toolPartFlint:0:minecraft:flint:0:minecraft:stick:0",
+            "recipeType": "ShapedRecipes",
+            "item": "flintmod:item.pickaxeFlint 0",
+            "xPos": 325,
+            "yPos": 147,
+            "width": 72.0,
+            "height": 36.0
+          }
+        }
+      ],
+      "pageName": "stick"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "If you are successfully crafted it. Use wisely to gather wood and stones to craft a better tools",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 34,
+            "yPos": 22,
+            "width": 170.0,
+            "height": 29.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/wasteland.png",
+            "xPos": 34,
+            "yPos": 92,
+            "width": 163.0,
+            "height": 91.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Congratulation, you achieved the start point of survival guide :D !",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FFFF00FF",
+            "xPos": 34,
+            "yPos": 62,
+            "width": 148.0,
+            "height": 28.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/foods.png",
+            "xPos": 244,
+            "yPos": 17,
+            "width": 140.0,
+            "height": 26.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF006400",
+            "xPos": 228,
+            "yPos": 44,
+            "width": 168.0,
+            "height": 2.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF9400D3",
+            "xPos": 33,
+            "yPos": 55,
+            "width": 162.0,
+            "height": 1.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The old world before, Great war. It was beautiful with flora and fauna. [b]But[/b], now.. [i]Everything we had are gone, There are no plants, leaves, animals and ocean. There are still a pool of water, which has been mixed or even fully with nuclear radiation that became a toxic waste pool. There are so many feral ghouls cause of contaminated of nuclear radiation[/i]",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF228B22",
+            "xPos": 230,
+            "yPos": 74,
+            "width": 169.0,
+            "height": 110.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]A recap + informations[/b]",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 231,
+            "yPos": 57,
+            "width": 170.0,
+            "height": 11.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Alright, The second chapter of manual is the part were you not supposed to die in...\n\nWe will be discussing a few new things in this pack. HUD and Looting",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 34,
+            "yPos": 26,
+            "width": 163.0,
+            "height": 165.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Now as you might have already noticed, the normal hud has been retextured and with many new things!\n\nStarting with this part. There will be a few things you might notice",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 234,
+            "yPos": 53,
+            "width": 170.0,
+            "height": 70.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/hud.png",
+            "xPos": 232,
+            "yPos": 131,
+            "width": 163.0,
+            "height": 62.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/hudtext.png",
+            "xPos": 207,
+            "yPos": 14,
+            "width": 91.0,
+            "height": 28.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF555555",
+            "xPos": 233,
+            "yPos": 43,
+            "width": 156.0,
+            "height": 1.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Well, for beginners, you might notice the fancy blue bar on bottom left corner, what does it mean ?\n\nit\u0027s called [b]thirst bar[/b] and yes, [u]you will have to drink in this world to survive.[/u]\n\nDrinken can be done as easy as right clicking a water block, but that will not be enough and not be all to good for you. You can also right click with a bottle on your hand. but, still give you a dirty water bottle. so the best way to drink is to refine your water bottle like this",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 39,
+            "yPos": 23,
+            "width": 150.0,
+            "height": 172.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "enviromine:badWaterBottle:32767",
+            "recipeType": "VanillaFurnace",
+            "item": "minecraft:potion 0",
+            "xPos": 289,
+            "yPos": 29,
+            "width": 58.0,
+            "height": 63.800000000000004
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "If you always forget for recipes. You can check in your NEI menu in your inventory that shows you every recipe you need to know! Just type item/block you want in search bar. And NEI will search it for you. Left click to your wanted item to to see the recipe. Good Luck!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 233,
+            "yPos": 98,
+            "width": 154.0,
+            "height": 89.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:water_bucket",
+            "xPos": 230,
+            "yPos": 41,
+            "width": 32.0,
+            "height": 32.0
+          }
+        }
+      ],
+      "pageName": "water"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Now, to the second part. This will become your issue, and i guess, you already know. [b]The Foods[/b] are rare to find. You can do this in many different ways : kill ghouls to eat their rotten flesh for the rest of your life, explore wasteland.. could be ruined buildings, abandoned villages, and even a big lonely city.. or you craft yourself some food by farming seeds.\n\nNow, [u]remember![/u] there\u0027s not a complete loots in this world. If you can\u0027t find it. you simply must craft it!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 32,
+            "yPos": 25,
+            "width": 169.0,
+            "height": 162.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Let\u0027s talk about exploring the wasteland.\n\nAny of you could live in different world/places. there could be some of your luck around your starter base or maybe not. The only thing to survive by gathering resources. But, to get them.. We surely need to do exploring for finding the materials we need! finding materials in this world is more challanging than pre-war world. So, Let\u0027s get going to how can you find loots on this wasteland.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 235,
+            "yPos": 23,
+            "width": 160.0,
+            "height": 167.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]LOOTING[/b]",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF32CD32",
+            "xPos": 36,
+            "yPos": 29,
+            "width": 77.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF555555",
+            "xPos": 35,
+            "yPos": 39,
+            "width": 49.0,
+            "height": 1.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Not everything in this world are nothing. Looting is not that hard to do. But, what the hard is the chance of getting good items. Sometimes you ended up with only cobweb, and rotten flesh, even there\u0027s no loot chest. The loot chest always can be found in ruined buildings, abandoned village or even city. Example :",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 37,
+            "yPos": 47,
+            "width": 165.0,
+            "height": 98.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/ruinhouse.png",
+            "xPos": 39,
+            "yPos": 151,
+            "width": 127.0,
+            "height": 50.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "- Abandoned Village",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 231,
+            "yPos": 25,
+            "width": 121.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/village.png",
+            "xPos": 232,
+            "yPos": 37,
+            "width": 150.0,
+            "height": 70.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "- Abandoned City",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 231,
+            "yPos": 112,
+            "width": 110.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/city.png",
+            "xPos": 232,
+            "yPos": 125,
+            "width": 150.0,
+            "height": 75.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "- Ruined Buildings",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 39,
+            "yPos": 141,
+            "width": 104.0,
+            "height": 7.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The [u]Wasteland City[/u] usually generated on +1000 blocks away. When you are in a city. Just be aware of monsters \u0026 bandits. They could be every your corners. Well.. You could see... Every buildings... every floors... has one monster spawner.. but they are \u0027usually\u0027 inactive during daytime.\n\nI suggest to avoid coming to city when night.\n[b]\nGood luck on your journey![/b]",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 28,
+            "yPos": 22,
+            "width": 167.0,
+            "height": 136.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/majorcity.png",
+            "xPos": 29,
+            "yPos": 159,
+            "width": 163.0,
+            "height": 34.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/tips.png",
+            "xPos": 231,
+            "yPos": 16,
+            "width": 159.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF555555",
+            "xPos": 234,
+            "yPos": 38,
+            "width": 152.0,
+            "height": 2.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Now, of course. We wouldn\u0027t let you run off into the wasteland not knowing how to make surviving a little bit easier\n\nIn this section we will show you a few blocks, items and also UI that might help you survive even better in this world!\n\nNow, try to note. The tech tier of items are not specified, so some can really be cheap and others really expensive",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 236,
+            "yPos": 46,
+            "width": 147.0,
+            "height": 154.0
+          }
+        }
+      ],
+      "pageName": "\n"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Journey Map",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF6B8E23",
+            "xPos": 40,
+            "yPos": 18,
+            "width": 89.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF555555",
+            "xPos": 42,
+            "yPos": 27,
+            "width": 62.0,
+            "height": 1.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/journeymap.png",
+            "xPos": 41,
+            "yPos": 30,
+            "width": 146.0,
+            "height": 79.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Since, you are our vault dweller. We gave you a map device that already attached to your device on your body. So, this is probably the most useful tools for your exploring. You can try to operate things inside of it (default key : J)",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 41,
+            "yPos": 113,
+            "width": 149.0,
+            "height": 73.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Infinite Water",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF7B68EE",
+            "xPos": 237,
+            "yPos": 18,
+            "width": 89.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF555555",
+            "xPos": 237,
+            "yPos": 26,
+            "width": 67.0,
+            "height": 1.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:water_bucket",
+            "xPos": 274,
+            "yPos": 31,
+            "width": 30.0,
+            "height": 30.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "There is no such thing that have infinite source. Remember about the world has been changed. Now the only thing, we can do is by creating such a machinery that will reproduce as much water. In this wasteland, Water acts the same as lava which is doesn\u0027t generate new source blocks. We can\u0027t provide you more info here. but, you can check your NEI recipes there.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 239,
+            "yPos": 66,
+            "width": 148.0,
+            "height": 127.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Look for NEI Recipe!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 311,
+            "yPos": 39,
+            "width": 70.0,
+            "height": 19.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "NuclearCraft:parts 7",
+            "xPos": 240,
+            "yPos": 30,
+            "width": 32.0,
+            "height": 32.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Adventure Backpack",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 42,
+            "yPos": 25,
+            "width": 117.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF555555",
+            "xPos": 42,
+            "yPos": 36,
+            "width": 98.0,
+            "height": 1.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "minecraft:leather:0:ingotGold:minecraft:leather:0:adventurebackpack:backpackComponent:2:minecraft:chest:32767:adventurebackpack:backpackComponent:2:minecraft:leather:0:adventurebackpack:backpackComponent:1:minecraft:leather:0",
+            "recipeType": "ShapedOreRecipe",
+            "item": "adventurebackpack:adventureBackpack {backpackData:{colorName:\"Standard\"}}",
+            "xPos": 39,
+            "yPos": 41,
+            "width": 138.0,
+            "height": 69.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Are you tired of full inventory? well, this one suits you perfect. I know, this could be expensive in this world. But, you could always get this in another way of crafting.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 41,
+            "yPos": 119,
+            "width": 138.0,
+            "height": 73.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/dualwield1.png",
+            "xPos": 232,
+            "yPos": 42,
+            "width": 78.0,
+            "height": 52.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/dualwield2.png",
+            "xPos": 314,
+            "yPos": 42,
+            "width": 83.0,
+            "height": 52.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Dual Wield System",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 232,
+            "yPos": 25,
+            "width": 116.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF555555",
+            "xPos": 232,
+            "yPos": 34,
+            "width": 83.0,
+            "height": 1.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "With this system, it will make your combat and mining a lot easier. You can try doing another things. Just make sure you open your battle inventory (Default key : I)",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 233,
+            "yPos": 104,
+            "width": 161.0,
+            "height": 54.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Settings \u0026 Setup your Gameplay!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 31,
+            "yPos": 25,
+            "width": 175.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF555555",
+            "xPos": 30,
+            "yPos": 34,
+            "width": 162.0,
+            "height": 1.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/controlsmenu.png",
+            "xPos": 31,
+            "yPos": 40,
+            "width": 162.0,
+            "height": 80.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Always remember your keys. There is another things that might get conflicted. So, unfortunately, [b]you need to setup this by yourself![/b]",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 32,
+            "yPos": 128,
+            "width": 147.0,
+            "height": 42.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Set keys that you really wanted to!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF0000CD",
+            "xPos": 32,
+            "yPos": 179,
+            "width": 139.0,
+            "height": 20.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Avoid Natural Disasters!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 234,
+            "yPos": 25,
+            "width": 142.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF555555",
+            "xPos": 232,
+            "yPos": 34,
+            "width": 125.0,
+            "height": 1.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/tornado.png",
+            "xPos": 232,
+            "yPos": 39,
+            "width": 68.0,
+            "height": 49.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/highthunder.png",
+            "xPos": 310,
+            "yPos": 39,
+            "width": 71.0,
+            "height": 49.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/earthquake.png",
+            "xPos": 260,
+            "yPos": 74,
+            "width": 91.0,
+            "height": 54.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Tornado, Earthquake, and Heavily Rain. They are quite rare to happen. Just be sure to prepare yourself, when that happens.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 232,
+            "yPos": 138,
+            "width": 154.0,
+            "height": 44.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/endtitle.png",
+            "xPos": 233,
+            "yPos": 20,
+            "width": 89.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF555555",
+            "xPos": 236,
+            "yPos": 38,
+            "width": 88.0,
+            "height": 1.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Thanks for reading our manual for Survival Guide if you ever need some more information or any other kind of information just visit your local lab archive, [i]\"if it\u0027s still there\".[/i]",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 236,
+            "yPos": 50,
+            "width": 161.0,
+            "height": 63.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/vaultlogos.png",
+            "xPos": 249,
+            "yPos": 122,
+            "width": 131.0,
+            "height": 60.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Be careful at night",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 37,
+            "yPos": 27,
+            "width": 128.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF555555",
+            "xPos": 37,
+            "yPos": 36,
+            "width": 96.0,
+            "height": 1.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Survival_Guide/night.png",
+            "xPos": 37,
+            "yPos": 44,
+            "width": 148.0,
+            "height": 76.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Well, i know. The image is too dark to see. But, just be careful, if you exploring at night. There are alot of monsters that were spawning. Be sure, you have a shelter to survive.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 38,
+            "yPos": 126,
+            "width": 147.0,
+            "height": 70.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [],
+      "pageName": ""
+    }
+  ],
+  "uniqueName": "Survival_Guide",
+  "color": 16777215,
+  "showBackground": true,
+  "showArrows": true,
+  "showNumber": true,
+  "iconPass1": "",
+  "iconPass2": "",
+  "iconColorisePass1": false,
+  "iconColorisePass2": false,
+  "iconColorPass1": 0,
+  "iconColorPass2": 0,
+  "language": "en_US",
+  "displayName": "Survival Guide",
+  "displayInCreative": true
+}
