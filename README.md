@@ -1,11 +1,11 @@
-#Mineout Server Information
-<br><br>
-##Mods need to be reconfigured on each update
+# Mineout Server Information
+<br>
+## Mods need to be reconfigured on each update
 - Crash Log Addition.
 <br><br>
-##SERVER MODS
-<br><br>
-###Blacklist:
+## SERVER MODS
+<br>
+### Blacklist:
 - Ambience
 - CustomMainMenu
 - CraftPresence
@@ -17,7 +17,7 @@
 - TabbyChat
 - ZynHUD
 <br><br>
-###Whitelist:
+### Whitelist:
 - HelpFixer
 <br><br>
 INFORMATION<br>
