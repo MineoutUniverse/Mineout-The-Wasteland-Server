@@ -1,0 +1,8 @@
+/.analytics
+/asm
+/crash-reports
+/logs
+/reports
+/world
+*.dll
+*.log

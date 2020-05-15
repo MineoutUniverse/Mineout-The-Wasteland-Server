@@ -1,3 +1,10 @@
 SimpleAchievements:sa.achievementBook,1,0
 Enchiridion2:book,1,0,{identifier:"Survival_Guide"}
 Enchiridion2:book,1,0,{identifier:"Life_Guide"}
+mw:MakarovPM,1,0
+mw:Magazine9mm,1,0,{Ammo:10}
+mw:Bullet9mm,32,0
+minecraft:bread,16,0
+minecraft:potion,1,0
+minecraft:potion,1,0
+adventurebackpack:adventureBackpack,1,0,{backpackData:{colorName:"Standard"}}

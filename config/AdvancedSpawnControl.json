@@ -1,0 +1,70 @@
+{
+  "Print All Registered Entities": false,
+  "Monster Max": 70,
+  "Creature Max": 10,
+  "Ambient Max": 15,
+  "Water Creature Max": 5,
+  "Remove All Mobs From All Biomes": false,
+  "Remove All Mobs From Biomes": [],
+  "Remove Mobs From All Biomes": [],
+  "Spawns": [
+				{
+					"Entity": "mw.bandit1",
+					"Types": [
+						"monster"
+					],
+					"Modify Only": true,
+					"Remove From Biomes": [
+						47
+					]
+				},
+				{
+					"Entity": "mw.gassy",
+					"Types": [
+						"monster"
+					],
+					"Modify Only": true,
+					"Remove From Biomes": [
+						47
+					]
+				},
+				{
+					"Entity": "Wolf",
+					"Types": [
+						"creature"
+					],
+					"Modify Only": true,
+					"Remove From Biomes": [
+						47
+					]
+				},
+				{
+					"Entity": "Squid",
+					"Types": [
+						"waterCreature"
+					],
+					"Modify Only": true,
+					"Remove From Biomes": [
+						47
+					]
+				},
+				{
+					"Entity": "swampmobs.ettin",
+					"Weight": 1000,
+					"Min": 1,
+					"Max": 5,
+					"Types": [
+						"monster"
+					],
+					"Modify Only": false,
+					"Add To Biomes": [
+						47
+					]
+				}
+			],
+  "Blacklist All Entities": false,
+  "Blacklist All Types": false,
+  "Dimension Blacklist": {},
+  "All Dimension Blacklist": [],
+  "Dimension Whitelist": {}
+}
