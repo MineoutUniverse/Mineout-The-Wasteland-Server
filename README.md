@@ -1,10 +1,7 @@
 # Mineout Server Information
-<br>
 ## Mods need to be reconfigured on each update
 - Crash Log Addition.
-<br><br>
 ## SERVER MODS
-<br>
 ### Blacklist:
 - Ambience
 - CustomMainMenu
@@ -16,10 +13,8 @@
 - SimpleAutorun
 - TabbyChat
 - ZynHUD
-<br><br>
 ### Whitelist:
 - HelpFixer
-<br><br>
-INFORMATION<br>
+## Information:
 Blacklist = You can't load this mods on Server Side<br>
 Whitelist = Server Side Mods<br>
