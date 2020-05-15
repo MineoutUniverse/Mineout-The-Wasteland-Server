@@ -3,10 +3,10 @@
 :: When setting the memory below make sure to include the amount of ram letter. M = MB, G = GB. Don't use 1GB for example, it's 1G ::
 
 :: This is 64-bit memory ::
-set memsixtyfour=2G
+set memsixtyfour=1G
 
 :: This is 32-bit memory - maximum 1.2G ish::
-set memthirtytwo=1G
+set memthirtytwo=512M
 
 :: Don't edit past this point ::
 
